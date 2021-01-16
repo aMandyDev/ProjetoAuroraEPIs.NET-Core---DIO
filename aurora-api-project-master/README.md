@@ -22,9 +22,9 @@ Além disso, este sistema permite que você veja todos os EPIs e quem possui um 
 
 2. Use a string de conexão padrão ou:
 
-  2.1. Instale e configure [MySql] (https://dev.mysql.com/downloads/mysql/), se desejar.
+  \2.1. Instale e configure [MySql] (https://dev.mysql.com/downloads/mysql/), se desejar.
 
-  2.2. Informe a string de conexão em Aroura.Infra.Data/Context/MySqlContext.cs, se necessário
+  \2.2. Informe a string de conexão em Aroura.Infra.Data/Context/MySqlContext.cs, se necessário
 
   \* Coloque o nome do servidor na tag [SERVER]
 
@@ -83,8 +83,6 @@ Para mais informações sobre este projeto, consulte este [artigo] (https://medi
 * Tipos de valor
 
 * BDD (Behavior Driven Development)
-
-! [Arquitetura] (https://github.com/aMandyDev/project_aurora-api_epis_.NET-Core_DIO/blob/master/arquiterturaAurora.png)
 
 ## Notícia:
 
